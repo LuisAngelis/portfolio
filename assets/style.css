@@ -1,0 +1,29 @@
+.profile-img{
+    width: 200px;
+}
+.text-light-secundary{
+    color: #868686;
+}
+.text-rose{
+    color: #c82c53;
+}
+
+.text-blue{
+    color: #023a83;
+}
+
+.bg-black-secundary{
+    background-color:#121212;
+}
+
+.bg-grey{
+    background-color: #262626;
+}
+
+.border-card{
+    border: solid,1px, #c82c53;
+}
+
+.bg-rose{
+    background-color: #c82c53;
+}
